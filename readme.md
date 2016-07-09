@@ -1,4 +1,4 @@
-# DHT11 Isı sensörü be 16x2 LCD Kullanımı
+# DHT11 Isı sensörü ve 16x2 LCD Kullanımı
 
 - Kütüphane bana iat değildir. 
 - Örnek kod içerir.
